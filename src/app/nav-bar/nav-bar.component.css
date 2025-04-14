@@ -1,0 +1,109 @@
+/* 
+.custom-appbar {
+  background-color: #012a6b !important;
+  color: white;
+}
+
+.nav-links > * {
+  margin-right: 5px;
+}
+
+button.k-button {
+  font-weight: 600;
+  color: white;
+}
+
+.k-button.k-primary {
+  background-color: #7ec241;
+  color: black;
+}
+
+.badge {
+  background-color: #7ec241;
+  color: black;
+  border-radius: 50%;
+  padding: 2px 6px;
+  font-size: 10px;
+  margin-left: 4px;
+}
+
+.user-info {
+  margin: 0 10px;
+  font-size: 12px;
+  text-align: right;
+  line-height: 1.2;
+} */
+/* Top right user control bar */
+/* .top-right-controls {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color:white;
+  padding: 5px 10px;
+  gap: 8px;
+  color: white;
+}
+
+.custom-appbar {
+  background-color:white;
+  color: white;
+  border-bottom:  #7ec241 4px solid;
+}
+
+.nav-links > * {
+  margin-right: 5px;
+}
+
+.btn-dashboard{
+  background-color: #012a6b !important;
+  color: white;
+  font-weight: 600;
+}
+
+button.k-button {
+  font-weight: 600;
+  color: white;
+}
+
+.k-button.k-primary {
+  background-color: #7ec241;
+  color: black;
+ 
+}
+
+.badge {
+  background-color: #7ec241;
+  color: black;
+  border-radius: 50%;
+  padding: 2px 6px;
+  font-size: 10px;
+  margin-left: 4px;
+}
+
+.user-info {
+  font-size: 12px;
+  text-align: right;
+  line-height: 1.2;
+  margin-left: 10px;
+} */
+
+.btn-all {
+  min-width: 120px;
+  height: 40px;
+  font-weight: 600;
+  font-size: 14px;
+  border-radius: 6px;
+  background-color: #012a6b 
+}
+
+.badge {
+  font-size: 0.65rem;
+}
+
+.navbar-nav{
+  border-bottom: #7ec241 4px solid ;
+}
+
+.rounded-circle{
+  border: white 2px solid;
+}
